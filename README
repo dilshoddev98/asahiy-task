@@ -1,4 +1,16 @@
 # Asahiy task app
 
+## Description
 Vite, Bootstrap, Ant-design-chart kutubxonalaridan foydalanildi
 
+##Problems
+Ushbu loyihada duch kelgan muammolarim: 
+1-diagrammalar uchun chart.js kutubxonasini tanlagandim, lekun imkoniyatilari kam ekanligi sabab ant-design-chartsni ga o'tdim
+2-formada optiondan value sifatida obyekt jo'natish mumkin emasligini bildim va bu muammoni JSON stringify va parse yordamida bajardim
+
+##Additional
+1-agarda qo'shimcha vaqt yana bir nechta funksionalliklar qo'shgan bo'lardim (jadvalga kiritilgan har bir ma'lumotni tahrirlash, o'chirish)
+
+## Installation - npm install
+## Start - npm run dev
+## Build - npm run build  
